@@ -54,7 +54,7 @@ Please check the below section, to customize the style and appearance of the Cal
 
 [Customizing Calendar's style and appearance](../calendar/style-appearance/)
 
-## Full screen mode: enhancing the DateTimePicker component (mobile support only)
+## Full screen mode support in mobiles and tablets
 
 The DateTimePicker component's full-screen mode feature enables users to view the component popup element in full-screen mode on mobile devices with improved visibility and a better user experience. It is important to mention that this feature is exclusively available for mobile devices in both landscape and portrait orientations. To activate the full screen mode within the DateTimePicker component, simply set the [fullScreenMode](../api/datetimepicker#fullScreenMode) API value to `true`. This action will extend the calendar and time popup element to occupy the entire screen on mobile devices.
 
