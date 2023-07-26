@@ -30,7 +30,7 @@ The following list of dependencies is required to use DatePicker component in yo
 
 ## Set up your development environment
 
-To get you started with DatePicker component, you can clone the [Essential JS 2 quickstart](https://github.com/syncfusion/ej2-quickstart.git) application and install the packages by using the following commands.
+To get you started with DatePicker component, you can clone the [Essential JS 2 quickstart](https://github.com/syncfusion/ej2-quickstart) application and install the packages by using the following commands.
 
 ```
 git clone https://github.com/syncfusion/ej2-quickstart.git quickstart
@@ -38,9 +38,9 @@ cd quickstart
 npm install
 ```
 
-> The [application](https://github.com/syncfusion/ej2-quickstart.git) is configured with all the EJ2 dependencies. For better understanding, remove common settings (`src/styles/styles.css`, `system.config.js` ) to get started with the DatePicker component.
+> The [application](https://github.com/syncfusion/ej2-quickstart) is configured with all the EJ2 dependencies. For better understanding, remove common settings (`src/styles/styles.css`, `system.config.js` ) to get started with the DatePicker component.
 
-* Refer to the [DatePicker component dependencies](./getting-started#dependencies) in `system.config.js` configuration file.
+* Refer to the [DatePicker component dependencies](https://ej2.syncfusion.com/documentation/datepicker/getting-started#dependencies) in `system.config.js` configuration file.
 
 `[src/system.config.js]`
 
@@ -83,7 +83,7 @@ To render the DatePicker component, need to import DatePicker and its dependent 
 @import "../node_modules/@syncfusion/ej2-calendars/styles/material.css";
 ```
 
-> If you want to refer the combined component styles, please make use of our [`CRG`](https://crg.syncfusion.com/) (Custom Resource Generator) in your application.
+> If you want to refer the combined component styles, please make use of our [`CRG`](https://crg.syncfusion.com) (Custom Resource Generator) in your application.
 
 ## Add DatePicker to the application
 
@@ -175,7 +175,7 @@ The following example demonstrates how to set the value, min and max dates on in
 
 ## See Also
 
-* [Change the format of selected date](./date-format)
-* [Render DatePicker with specific culture](./globalization)
-* [How to change the initial view of the DatePicker](./date-views)
-* [How to achieve validation with DatePicker](./how-to/client-side-validation)
+* [Change the format of selected date](https://ej2.syncfusion.com/documentation/datepicker/date-format)
+* [Render DatePicker with specific culture](https://ej2.syncfusion.com/documentation/datepicker/globalization)
+* [How to change the initial view of the DatePicker](https://ej2.syncfusion.com/documentation/datepicker/date-views)
+* [How to achieve validation with DatePicker](https://ej2.syncfusion.com/documentation/datepicker/how-to/client-side-validation)
