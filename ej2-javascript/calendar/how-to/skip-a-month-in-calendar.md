@@ -11,7 +11,7 @@ domainurl: ##DomainURL##
 
 # Skip a month in calendar in ##Platform_Name## Calendar control
 
-The following example demonstrates how to skip a month in the Calendar while clicking the previous and next icons. In the example below,  the [`navigated`](https://helpej2.syncfusion.com/documentation/api/calendar/#navigated) event is used to skip a month with [`navigateTo`](https://helpej2.syncfusion.com/documentation/api/calendar/#navigateto) method.
+The following example demonstrates how to skip a month in the Calendar while clicking the previous and next icons. In the example below,  the [`navigated`](../../api/calendar/#navigated) event is used to skip a month with [`navigateTo`](../../api/calendar/#navigateto) method.
 
 {% if page.publishingplatform == "typescript" %}
 

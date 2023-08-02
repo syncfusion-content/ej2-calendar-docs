@@ -30,7 +30,7 @@ The following list of dependencies is required to use DatePicker component in yo
 
 ## Set up your development environment
 
-To get you started with DatePicker component, you can clone the [Essential JS 2 quickstart](https://github.com/syncfusion/ej2-quickstart) application and install the packages by using the following commands.
+To get you started with DatePicker component, you can clone the [Essential JS 2 quickstart](https://github.com/syncfusion/ej2-quickstart.git) application and install the packages by using the following commands.
 
 ```
 git clone https://github.com/syncfusion/ej2-quickstart.git quickstart
@@ -38,7 +38,7 @@ cd quickstart
 npm install
 ```
 
-> The [application](https://github.com/syncfusion/ej2-quickstart) is configured with all the EJ2 dependencies. For better understanding, remove common settings (`src/styles/styles.css`, `system.config.js` ) to get started with the DatePicker component.
+> The [application](https://github.com/syncfusion/ej2-quickstart.git) is configured with all the EJ2 dependencies. For better understanding, remove common settings (`src/styles/styles.css`, `system.config.js` ) to get started with the DatePicker component.
 
 * Refer to the [DatePicker component dependencies](https://ej2.syncfusion.com/documentation/datepicker/getting-started#dependencies) in `system.config.js` configuration file.
 
