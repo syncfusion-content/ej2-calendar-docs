@@ -83,7 +83,7 @@ To render the DatePicker component, need to import DatePicker and its dependent 
 @import "../node_modules/@syncfusion/ej2-calendars/styles/material.css";
 ```
 
-> If you want to refer the combined component styles, please make use of our [`CRG`](https://crg.syncfusion.com) (Custom Resource Generator) in your application.
+> If you want to refer the combined component styles, please make use of our [`CRG`](https://crg.syncfusion.com/) (Custom Resource Generator) in your application.
 
 ## Add DatePicker to the application
 
