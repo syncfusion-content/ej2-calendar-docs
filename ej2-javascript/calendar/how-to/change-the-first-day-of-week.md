@@ -11,7 +11,7 @@ domainurl: ##DomainURL##
 
 # Change the first day of week in ##Platform_Name## Calendar control
 
-The Calendar provides an option to change the first day of the week by using the [`firstDayOfWeek`](../../api/calendar#firstdayofweek) property. Generally, the day of the week starts from 0 (Sunday) and ends with 6 (Saturday).
+The Calendar provides an option to change the first day of the week by using the [`firstDayOfWeek`](../../api/calendar/#firstdayofweek) property. Generally, the day of the week starts from 0 (Sunday) and ends with 6 (Saturday).
 
 > By default, the first day of the week is culture specific.
 

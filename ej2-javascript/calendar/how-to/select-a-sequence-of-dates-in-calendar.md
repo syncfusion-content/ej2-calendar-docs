@@ -11,7 +11,7 @@ domainurl: ##DomainURL##
 
 # Select a sequence of dates in calendar in ##Platform_Name## Calendar control
 
-The following example demonstrates how to select the week dates of chosen date in the Calendar using [`values`](../../api/calendar#values) property, when [`multiSelection`](../../api/calendar#ismultiselection) property is enabled. Methods of Moment.js is used in this sample for calculating the start and end of week from the selected date.
+The following example demonstrates how to select the week dates of chosen date in the Calendar using [`values`](../../api/calendar/#values) property, when [`multiSelection`](../../api/calendar/#ismultiselection) property is enabled. Methods of Moment.js is used in this sample for calculating the start and end of week from the selected date.
 
 {% if page.publishingplatform == "typescript" %}
 

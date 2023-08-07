@@ -40,7 +40,7 @@ npm install
 
 > The [application](https://github.com/syncfusion/ej2-quickstart.git) is configured with all the EJ2 dependencies. For better understanding, remove common settings (`src/styles/styles.css`, `system.config.js` ) to get started with the DatePicker component.
 
-* Refer to the [DatePicker component dependencies](./getting-started#dependencies) in `system.config.js` configuration file.
+* Refer to the [DatePicker component dependencies](https://ej2.syncfusion.com/documentation/datepicker/getting-started#dependencies) in `system.config.js` configuration file.
 
 `[src/system.config.js]`
 
@@ -175,7 +175,7 @@ The following example demonstrates how to set the value, min and max dates on in
 
 ## See Also
 
-* [Change the format of selected date](./date-format)
-* [Render DatePicker with specific culture](./globalization)
-* [How to change the initial view of the DatePicker](./date-views)
-* [How to achieve validation with DatePicker](./how-to/client-side-validation)
+* [Change the format of selected date](https://ej2.syncfusion.com/documentation/datepicker/date-format)
+* [Render DatePicker with specific culture](https://ej2.syncfusion.com/documentation/datepicker/globalization)
+* [How to change the initial view of the DatePicker](https://ej2.syncfusion.com/documentation/datepicker/date-views)
+* [How to achieve validation with DatePicker](https://ej2.syncfusion.com/documentation/datepicker/how-to/client-side-validation)

@@ -11,7 +11,7 @@ domainurl: ##DomainURL##
 
 # Customize the calendar day header in ##Platform_Name## Calendar control
 
-You can change the format of the day that to be displayed in header using [`dayHeaderFormat`](../../api/calendar#dayheaderformat) property. By default, the format is `Short`.
+You can change the format of the day that to be displayed in header using [`dayHeaderFormat`](../../api/calendar/#dayheaderformat) property. By default, the format is `Short`.
 
 You can find the possible formats on below.
 

@@ -11,7 +11,7 @@ domainurl: ##DomainURL##
 
 # Render the calendar with week numbers in ##Platform_Name## Calendar control
 
-You can enable `weekNumbers` in the Calendar by using the [`weekNumber`](../../api/calendar#weeknumber) property.
+You can enable `weekNumbers` in the Calendar by using the [`weekNumber`](../../api/calendar/#weeknumber) property.
 
 {% if page.publishingplatform == "typescript" %}
 
