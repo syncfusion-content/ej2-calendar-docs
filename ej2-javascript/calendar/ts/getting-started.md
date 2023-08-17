@@ -176,3 +176,4 @@ Here the Calendar allows you to select a date within the range from 9th to 15th.
 * [How to change the initial view of the Calendar](./calendar-views)
 * [Render Calendar with week numbers](./how-to/render-the-calendar-with-week-numbers)
 * [Show other month dates](./how-to/show-dates-of-other-months)
+* [Refer Feature Tour](https://www.syncfusion.com/javascript-controls/js-calendar)
