@@ -11,7 +11,7 @@ domainurl: ##DomainURL##
 
 # Getting started in ##Platform_Name## Datepicker control
 
-This section briefly explains how to create a simple [JavaScript DatePicker](https://www.syncfusion.com/javascript-controls/js-datepicker) control and configure its available functionalities in TypeScript, using Essential JS 2 [quickstart](https://github.com/syncfusion/ej2-quickstart) seed repository.
+This section briefly explains how to create a simple [JavaScript DatePicker](https://www.syncfusion.com/javascript-controls/js-datepicker) component and configure its available functionalities in TypeScript, using Essential JS 2 [quickstart](https://github.com/syncfusion/ej2-quickstart) seed repository.
 
 ## Dependencies
 
