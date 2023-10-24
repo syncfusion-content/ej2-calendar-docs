@@ -88,7 +88,7 @@ Add the HTML div tag with an ID attribute as the `element` to your `index.html` 
 `[src/index.html]`
 
 {% tabs %}
-{% highlight ts tabtitle="app.ts" %}
+{% highlight html tabtitle="index.html" %}
 
 <!DOCTYPE html>
 <html lang="en">
