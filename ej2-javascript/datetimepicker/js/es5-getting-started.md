@@ -4,7 +4,7 @@ title: Es5 getting started with JavaScript Datetimepicker control | Syncfusion
 description: Checkout and learn about Es5 getting started with JavaScript Datetimepicker control of Syncfusion Essential JS 2 and more details.
 platform: ej2-javascript
 control: Es5 getting started 
-publishingplatform: ##Platform_Name##
+publishingplatform: JavaScript
 documentation: ug
 domainurl: ##DomainURL##
 ---
