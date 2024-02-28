@@ -2,7 +2,7 @@
 layout: post
 title: Customization using cssclass in ##Platform_Name## Daterangepicker control | Syncfusion
 description: Learn here all about Customization using cssclass in Syncfusion ##Platform_Name## Daterangepicker control of Syncfusion Essential JS 2 and more.
-platform: ej2-javascript
+platform: ej2-java-script
 control: Customization using cssclass 
 publishingplatform: ##Platform_Name##
 documentation: ug
@@ -57,7 +57,7 @@ Following is the list of classes that provides flexible way to customize the Dat
 
 {% tabs %}
 {% highlight js tabtitle="index.js" %}
-{% include code-snippet/daterangepicker/customcss-cs1/index.js %}
+{% include code-snippet/.js %}
 {% endhighlight %}
 {% highlight html tabtitle="index.html" %}
 {% include code-snippet/daterangepicker/customcss-cs1/index.html %}
