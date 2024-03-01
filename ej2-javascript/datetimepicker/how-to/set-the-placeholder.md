@@ -11,7 +11,7 @@ domainurl: ##DomainURL##
 
 # Set the placeholder in ##Platform_Name## Datetimepicker control
 
-The following example demonstrates how to set [`placeholder`](../../api/datetimepicker#placeholder) in the DateTimePicker component.
+The following example demonstrates how to set [`placeholder`](../../api/datetimepicker/#placeholder) in the DateTimePicker component.
 
 Using `placeholder` you can display a short hint in the input element.
 
