@@ -11,7 +11,7 @@ domainurl: ##DomainURL##
 
 # Globalization in ##Platform_Name## Calendar control
 
-Globalization is the combination of  adapting the component to various languages by means of parsing and formatting the date or number [`Internationalization`](https://ej2.syncfusion.com/documentation/common/internationalization) and also by adding cultural specific customizations and translating the text [`localization`](https://ej2.syncfusion.com/documentation/common/localization)
+Globalization is the combination of  adapting the component to various languages by means of parsing and formatting the date or number [`Internationalization`](../common/internationalization) and also by adding cultural specific customizations and translating the text [`localization`](../common/localization)
 
 By default, the Calendar date format, week, and month names are specific to American English culture. It uses the [`Essential JavaScript 2 Internationalization`](https://ej2.syncfusion.com/documentation/common/internationalization) package to parse and format date object based on the culture using the official [`UNICODE CLDR`](http://cldr.unicode.org/) JSON data. It provides the [`loadCldr`](https://ej2.syncfusion.com/documentation/common/internationalization#loading-culture-data) method to load the culture-specific CLDR JSON data.
 
